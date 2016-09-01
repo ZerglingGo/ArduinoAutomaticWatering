@@ -5,7 +5,7 @@
  * License : MIT License
  */
 int pinMoistureSensor = A0;
-int pinWaterPump      = A1;
+int pinWaterPump      = 9;
 bool isSprinkle = false;
 /*
  * soil moisture sensor value
