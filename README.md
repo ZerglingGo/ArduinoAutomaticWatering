@@ -11,3 +11,6 @@ Arduino Automatic Watering System
 - 물 펌프 (5V~12V)
 - 고무 호스
 - 점프선
+
+# Breadboard
+![Alt text](breadboard.png?raw=true "Breadboard")
